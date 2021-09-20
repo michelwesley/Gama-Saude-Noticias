@@ -58,9 +58,53 @@ section.main{
     border:0;
 }
 
+.footer {
+    padding: 1% ;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    display: block;
+    background-color: #132C33;
+    color: #aab9b3;
+    text-align: center;
+    }
+    
+    .linkedin {
+    color: #132C33;
+    font-weight: bold;
+    font-size: 1.5rem;
+    
+  }
+  
+  .imagem_linkedin {
+    border-radius:10px;
+    border-radius:10px;
+    
+  }
 
+.foto_Aline {
+border-radius:50px;
+border-radius:50px:
 
+}
 
+.foto_Eric {
+border-radius:50px;
+border-radius:50px:
+
+}
+
+.foto_Marcos {
+border-radius:50px;
+border-radius:50px:
+
+}
+
+.foto_Michel {
+border-radius:50px;
+border-radius:50px:
+
+}
 
 section.cta{
     background-image: url('imagens/banner_final.svg');
