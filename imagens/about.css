@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'raleway', sans-serif;
+}
+
+.center{
+    display: flex;
+    max-width: 1100px;
+    padding: 0 2%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    
+}
+
+section.main{
+    background-image: url('./imagens/bg.svg');
+    background-position: center;
+    background-size: cover;
+    min-height: 700px;
+    padding: 20px 0 80px 0;
+}
+.menu{
+    display:flex;
+    width: 100%;
+}
+
+.logo-menu{
+    width: 50%;
+}
+
+.itens-menu{
+    width: 50%;
+    text-align: right;
+
+}
+
+.itens-menu a{
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.itens-menu a:hover{
+    border-bottom:2px solid #FFDD33;
+}
+
+.itens-menu a.contact-btn{
+    background-color:#0F3FD3;
+    padding:10px 10px;
+    border-radius:10px;
+}
+
+.itens-menu a.contact-btn:hover{
+    border:0;
+}
+
+.footer {
+    padding: 1% ;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    display: block;
+    background-color: #132C33;
+    color: #aab9b3;
+    text-align: center;
+    }
+    
+    .linkedin {
+    color: #132C33;
+    font-weight: bold;
+    font-size: 1.5rem;
+    
+  }
+  
+  .imagem_linkedin {
+    border-radius:10px;
+    border-radius:10px;
+    
+  }
+
+.foto_Aline {
+border-radius:50px;
+border-radius:50px:
+
+}
+
+.foto_Eric {
+border-radius:50px;
+border-radius:50px:
+
+}
+
+.foto_Marcos {
+border-radius:50px;
+border-radius:50px:
+
+}
+
+.foto_Michel {
+border-radius:50px;
+border-radius:50px:
+
+}
+
+section.cta{
+    background-image: url('imagens/banner_final.svg');
+    background-size: cover;
+    background-position: bottom;
+    padding:20px 10px;
+    min-height: 200px;
+    color:white;
+    text-align: center;
+}
+
+section.cta h2,
+section.cta h4{
+    font-weight: normal;
+    margin:10px 0;
+}
+
+section.cta h2{
+    font-size: 40px;
+}
