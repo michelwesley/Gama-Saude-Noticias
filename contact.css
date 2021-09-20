@@ -5,6 +5,7 @@
     font-family: 'raleway', sans-serif;
 }
 
+
 .center{
     display: flex;
     max-width: 1100px;
@@ -58,9 +59,9 @@ section.main{
     border:0;
 }
 
-
-
-
+iframe{
+    justify-content: center;
+}
 
 section.cta{
     background-image: url('imagens/banner_final.svg');
