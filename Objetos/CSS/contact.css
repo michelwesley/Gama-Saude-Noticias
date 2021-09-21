@@ -67,7 +67,7 @@ iframe {
     margin-top: 50px;
 }
 
-section.cta {
+footer.cta {
     background-image: url('/Objetos/Imagens/banner_final.svg');
     background-size: cover;
     background-position: bottom;
@@ -77,7 +77,7 @@ section.cta {
     text-align: center;
 }
 
-section.cta h4 {
+footer.cta h4 {
     font-weight: normal;
     margin: 20px 20px 20px 20px;
     text-align: center;
