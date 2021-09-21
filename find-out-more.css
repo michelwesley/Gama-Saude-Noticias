@@ -78,27 +78,19 @@ section.main {
 .saiba-mais h2 {
     margin: 10px 10px 10px 10px;
 }
+.noticias {
+    margin-top: 30px;
+}
 
 .noticias a {
     font-weight: bold;
     color: rgb(238, 223, 17);
     margin: 10px 10px 10px 10px;
     margin-top: 10px;
-    
 }
 
 .noticias a:hover {
     color: red;
-}
-
-section.cta {
-    background-image: url('imagens/banner_final.svg');
-    background-size: cover;
-    background-position: bottom;
-    padding: 20px 10px;
-    min-height: 200px;
-    color: white;
-    text-align: center;
 }
 
 section.cta {
