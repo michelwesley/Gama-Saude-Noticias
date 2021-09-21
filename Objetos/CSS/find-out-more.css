@@ -14,7 +14,7 @@
 }
 
 section.main {
-    background-image: url('./imagens/bg.svg');
+    background-image: url('/Objetos/Imagens/bg.svg');
     background-position: center;
     background-size: cover;
     min-height: 800px;
@@ -94,7 +94,7 @@ section.main {
 }
 
 section.cta {
-    background-image: url('imagens/banner_final.svg');
+    background-image: url('/Objetos/Imagens/banner_final.svg');
     background-size: cover;
     background-position: bottom;
     padding: 20px 10px;
